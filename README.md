@@ -1,5 +1,5 @@
 ﻿# competitive-programming_IV-Icesi-training-camp-2020
-I present my solutions for some of the problems worked in the IV Programming Camp organized by the Icesi University and directed by the coach Osman Jimenez, who first place in the 2019 and 2020 North Latin American regional marathon and classified to the ICPC 2019 in Porto and 2020 in Moscow.
+I present my solutions for some of the problems worked in the IV Programming Camp organized by the Icesi University and directed by the coach Osman Jimenez, who first place in the 2019 and 2020 North Latin American regional marathon and classified to the world ICPC 2019 in Porto and 2020 in Moscow.
 
 ## Problem set
 
