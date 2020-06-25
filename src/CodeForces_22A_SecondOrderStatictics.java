@@ -12,7 +12,7 @@ import java.util.HashSet;
 import java.util.Set;
 
 
-public class CodeForces22A_SecondOrderStatictics {
+public class CodeForces_22A_SecondOrderStatictics {
 
 	public static void main(String[] args) throws IOException {
 
