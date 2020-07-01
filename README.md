@@ -7,6 +7,7 @@ I present my solutions for some of the problems worked in the IV Programming Cam
    <li type="disc">CodeForces 1180C	Valeriy and Deque: https://codeforces.com/problemset/problem/1180/C</li>
   <li type="disc">CodeForces 1362A	Johnny and Ancient Computer: https://codeforces.com/problemset/problem/1362/A</li>
   <li type="disc">CodeForces 22A	Second Order Statistics: https://codeforces.com/problemset/problem/22/A</li>
+  <li type="disc">UVA 10391	Compound Words: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1332</li>
   <li type="disc">UVA 10763	Foreign Exchange: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=1704</li>
   <li type="disc">UVA 12100	Printer Queue: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=3252</li>
   <li type="disc">UVA 1594	Ducci Sequence: https://onlinejudge.org/index.php?option=com_onlinejudge&Itemid=8&page=show_problem&problem=4469</li>
